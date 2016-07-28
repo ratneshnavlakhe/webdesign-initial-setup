@@ -1,3 +1,3 @@
-An initial setup for webdesign 
+### An initial setup for webdesign 
 
-Referred from (http://jgthms.com/web-design-in-4-minutes/)
+## Referred from (http://jgthms.com/web-design-in-4-minutes/)
